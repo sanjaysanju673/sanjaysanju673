@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjay y
+- 👋 Hi, I’m Sanjay 
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
